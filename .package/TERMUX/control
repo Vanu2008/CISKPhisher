@@ -1,0 +1,7 @@
+Package: CISKphisher
+Version: 1
+Installed-Size: 9400
+Architecture: all
+Maintainer: @Vanu2008
+Depends: php, wget, git, curl
+Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! BY Vansh
